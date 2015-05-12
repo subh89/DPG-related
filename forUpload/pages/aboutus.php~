@@ -1,0 +1,28 @@
+<?php
+echo'
+    <div class="table-responsive">
+      <table class="table">
+	<tr align="center">
+		<th align="center"><img src="PM_Rural_Dev.jpg" class="table-image"></img></th>
+		<th align="center"><img src="IIM_Cal.jpg" class="table-image"></img></th>
+		<th align="center"><img src="Deutche_bank.jpg" class="table-image"></img></th>
+		<th align="center"><img src="Sampurne.png" class="table-image"></img></th>
+		<th align="center"><img src="Wipro.jpg" class="table-image"></img></th>
+	</tr>
+	<tr align="center">
+		<th align="center"><img src="Yes_Bank.jpg" class="table-image"></img></th>
+		<th align="center"><img src="accenture.png" class="table-image"></img></th>
+		<th align="center"><img src="Bajaj.png" class="table-image"></img></th>
+		<th align="center"><img src="snapdeal.jpg" class="table-image"></img></th>
+		<th align="center"><img src="HEC.jpg" class="table-image"></img></th>
+	</tr>
+	<tr align="center">
+		<th align="center"><img src="Infosys.jpg" class="table-image"></img></th>
+		<th align="center"><img src="Cognizant.jpg" class="table-image"></img></th>
+		<th align="center"><img src="IIM_A.png" class="table-image"></img></th>
+		<th align="center"><img src="HCC_logo.jpg" class="table-image"></img></th>
+		<th align="center"><img src="NSIT.jpg" class="table-image"></img></th>
+	</tr>
+      </table>
+    </div>';
+?>
