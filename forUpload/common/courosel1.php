@@ -13,7 +13,7 @@ echo '<div id="myCarousel" class="carousel slide" data-ride="carousel">
           <img class="first-slide" src="style/images/1.jpg" alt="First slide">
           <div class="container">
           <div class="carousel-caption">
-               <p>Developing Individuals through career guidance and counseling initiative</p>
+               <p>A model school vision</p>
             </div>
           </div>
         </div>
@@ -37,15 +37,16 @@ echo '<div id="myCarousel" class="carousel slide" data-ride="carousel">
           <img class="third-slide" src="style/images/4.jpg" alt="Third slide">
           <div class="container">
             <div class="carousel-caption">
-               <p>A modal school vision</p>
+               <p>Developing Individuals through career guidance and counselling initiative</p>
             </div>
           </div>
         </div>
  <div class="item height-100">
+ <div class="item height-100">
           <img class="fourth-slide" src="style/images/5.JPG" alt="Fourth slide">
           <div class="container">
             <div class="carousel-caption">
-               <p>Our Mission is skill development. Their can be no development with a satiated system </p>
+               <p>Our Mission is skill development. There can be no development with a satiated system </p>
             </div>
           </div>
         </div>
